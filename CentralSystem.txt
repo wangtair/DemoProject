@@ -1,0 +1,19 @@
+class Central System: ICentralSystem{
+	public void MainFunction(){
+	 	int a = 5;
+		Console.WriteLine(...);
+		...
+	}
+
+	public void SemiFunction(){
+		SomeFunction();
+		if(STK() > Standard.standard) Standard.SSSFunction();
+	}
+
+	public void InfoDisposal(){
+		float f2 = 43f;
+		bool sst = false;
+		Debug.Log(djslfksklfjsdl....);
+	}
+
+}

@@ -1,0 +1,8 @@
+interface ICentralSystem{
+	public abstract void MainFunction;
+
+	public abstract void SemiFunction;
+
+	public abstract void InfoDisposal;
+
+}

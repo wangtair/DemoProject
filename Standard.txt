@@ -1,0 +1,8 @@
+static public class Standard{
+	static public int standard = 34;
+
+	
+
+
+
+}
